@@ -1,12 +1,12 @@
 replaceText
 ===========
 
-AL_replaceText is a [jQuery][jq] plugin created to simplify the use of default text in form fields for things like search, login fields, etc. 
+A [jQuery][jq] plugin created to simplify the use of default text in form fields for things like search, login fields, etc. 
 
 Installation
 ------------
 
-Drop `al_replacetext.js` into the directory with all the rest of your JavaScript assets. Make sure you include [jQuery][jq] beforehand.
+Drop `al_replace.js` into the directory with all the rest of your JavaScript assets. Make sure you include [jQuery][jq] beforehand.
 
 To use, just select the `<input>` fields you wish to have default text and specify their `value=""`. For example...
 
